@@ -12,6 +12,7 @@
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
+- [Usage](#Usage)
 - [API](#api)
 - [Contact](#contact)
 - [Show Your Support](#show-your-support)
