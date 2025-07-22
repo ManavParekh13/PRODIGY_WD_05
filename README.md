@@ -50,7 +50,7 @@ This application uses the [OpenWeather API](https://openweathermap.org/api) to f
 
 ## Contact
 
-Feel free to reach out to me at [mnav13p@gmail.com](mailto:manav13p@gmail.com) 
+Feel free to reach out to me at [manav13p@gmail.com](mailto:manav13p@gmail.com) 
 
 ## Show Your Support
 
